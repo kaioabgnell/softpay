@@ -320,7 +320,7 @@
 
             <div class="form-center">
                 <div class="form-box">
-                    <h2 style="font-size:26px; font-weight:700; color:#111111; margin:0 0 4px; letter-spacing:-0.6px;">Bem-vindo de volta</h2>
+                    <h2 style="font-size:26px; font-weight:700; color:#111111; margin:0 0 4px; letter-spacing:-0.6px;">Olá, Bem-vindo de volta</h2>
                     <p style="font-size:14px; color:#6b7280; margin:0 0 24px;">Acesse o painel da sua empresa</p>
 
                     @if(session('status'))
